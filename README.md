@@ -1,3 +1,3 @@
 # 1st-project
 <br>
-by shreya rana
+by shreya (rana)
